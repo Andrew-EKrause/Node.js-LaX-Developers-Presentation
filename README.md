@@ -5,10 +5,7 @@
 ## **Description**
 
 **_Node.js presentation given at La Crosse (LaX) Area Developers Club Meeting on July 23rd, 2024_** <br/>
-On July 23rd, 2024 I had the opportunity to give a presentation on the basics of Node.js to the La Crosse Area Developers Club. This was an event to share what I had learned about Node.js with other professional developers.
-
-
-The TravelBlog web application was designed for a friend who wanted to find a way to share their trips and adventures. Unlike other websites and apps like Facebook, Instagram, Snapchat, and Twitter/X, this application takes a more simple approach to social media. TravelBlog focuses on sharing content related to trips and adventures that are taken by different individuals in the form of blogs. For example, an individual may travel to the country of Spain and then want to share the details specifically for that trip. This web application gives that individual the ability to create a blog like "My Trip to Spain" and then add content to that blog.
+On July 23rd, 2024 I had the opportunity to give a presentation on the basics of Node.js to the La Crosse Area Developers Club. This was an event to share what I had learned about Node.js with other professional developers. I want to thank all the members who attended the meeting for my presentation! I also appreciated all of the valuable input everyone gave me on my presentation content.
 
 Check out the Node.js presentation slides and code examples included in this repository!
 
