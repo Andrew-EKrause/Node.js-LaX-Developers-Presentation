@@ -5,7 +5,7 @@
 ## **Description**
 
 **_Node.js presentation given at La Crosse (LaX) Area Developers Club Meeting on July 23rd, 2024_** <br/>
-On July 23rd, 2024 I had the opportunity to give a presentation on the basics of Node.js to the La Crosse Area Developers Club. This was an event to share what I had learned about Node.js with other professional developers. I want to thank all the members who attended the meeting for my presentation! I also appreciated all of the valuable input everyone gave me on my presentation content.
+On July 23rd, 2024 I had the opportunity to give a presentation on the basics of Node.js to the La Crosse Area Developers Club. At this event, I shared some of what I had learned about Node.js in my independent learning with other professional developers. I want to thank all the members who attended the meeting for my presentation! I also appreciated all of the valuable input everyone gave me on my presentation content.
 
 Check out the Node.js presentation slides and code examples included in this repository!
 
