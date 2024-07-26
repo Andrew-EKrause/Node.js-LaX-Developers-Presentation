@@ -9,6 +9,8 @@ On July 23rd, 2024 I had the opportunity to give a presentation on the basics of
 
 Check out the Node.js presentation slides and code examples included in this repository!
 
+If you want to run any of the code examples, then clone this repo to get the programs on your computer. Then make sure that Node.js is installed on your system. You can [install Node.js here](https://nodejs.org/en/download/package-manager). After Node.js is installed, you can run each program in your terminal/command prompt by navigating to the location of a given program and running `node app.js`.
+
 ###### Node.js Presentation - View Slides in this Repository
 <img width="1280" alt="Node.js Presentation Opening Slide" src="https://github.com/user-attachments/assets/5934ba8e-9288-492a-b040-aed4534e38ee">
 
